@@ -1,6 +1,6 @@
 # Predicting the Success of Bank TelemarketingUsing Machine Learning
+
 3/6/2022
-Machine learning project that predicts the success of bank marketing campaign
 
 Atheer Albarqi, asa387@drexel.edu  
 Emily Wang, ew552@drexel.edu  
